@@ -1,16 +1,18 @@
-# weather_app
+# Weather App 🌤
 
-A new Flutter project.
+Aplicación Flutter para consultar el clima en tiempo real mediante integración con API externa.  
+Permite buscar por ciudad y mostrar datos meteorológicos actualizados con una interfaz intuitiva.
 
-## Getting Started
+## 🚀 Tecnologías
+- Flutter
+- API OpenWeather
+- Dart
+- JSON
 
-This project is a starting point for a Flutter application.
+## 📦 Instalación
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/jAVIER01012005/weather_app.git
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
